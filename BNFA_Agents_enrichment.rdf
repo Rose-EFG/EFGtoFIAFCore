@@ -1,0 +1,206 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:fiaf="https://fiafcore.org/ontology/">
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274689</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274689"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_fe53082bb1321c85efbfcb9569f57aed"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_1e1ca31672d17728b566bce4ba846182">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12276249</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12276249"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_1f9ad986cdbddda339a7aa284b70a494"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_1f9ad986cdbddda339a7aa284b70a494">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12276249</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12276249"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_1e1ca31672d17728b566bce4ba846182"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_208fbf83906476cc440ecdbcce3755ad">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12280055</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12280055"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q99515097</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q99515097"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274663</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274663"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274854</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274854"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_50528ce94ee727e03ba85e2385e7770f"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_50528ce94ee727e03ba85e2385e7770f">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274854</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274854"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_545c4854c22a96b7e90a8f95a4ea386f">
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_55b7c0a98513be4c798b1d6b19038881">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_57dfeded603e39936c9e45e7c7694fcd">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12273661</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12273661"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12283048</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12283048"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_6157edf0a6d8752ac9b7b684a72d322d">
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12280055</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12280055"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q19902875</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q19902875"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274663</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274663"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673">
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_91310a9f80b0b5ebbc6c75dd590a2f32">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q3652159</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3652159"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274689</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274689"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_d91d8143203d7d152ec8a766466665ac">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q19707585</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q19707585"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q19902875</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q19902875"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q99515097</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q99515097"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_fe53082bb1321c85efbfcb9569f57aed">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12274689</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12274689"/>
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_ff772b6a5c2270178f18ee0925323514">
+        <fiaf:hasIdentifier>
+            <fiaf:WikidataIdentifier>
+                <fiaf:hasIdentifierValue>Q12286714</fiaf:hasIdentifierValue>
+            </fiaf:WikidataIdentifier>
+        </fiaf:hasIdentifier>
+        <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12286714"/>
+    </fiaf:Person>
+    <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf">
+        <owl:sameAs rdf:resource="http://example.org/EFG/BNFA_person_208fbf83906476cc440ecdbcce3755ad"/>
+    </fiaf:Person>
+</rdf:RDF>
