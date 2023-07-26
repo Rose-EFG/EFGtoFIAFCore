@@ -283,7 +283,9 @@
                 <xsl:if test="efg:dimesion/@unit='m'">
                     <fiaf:hasExtent>
                         <fiaf:Metres>
-                            <xsl:value-of select="efg:dimesion"/>
+                            <fiaf:hasExtentValue>
+                                <xsl:value-of select="efg:dimesion"/>
+                            </fiaf:hasExtentValue>
                         </fiaf:Metres>
                     </fiaf:hasExtent>
                 </xsl:if>
